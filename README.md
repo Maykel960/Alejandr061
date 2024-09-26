@@ -48,3 +48,11 @@
 - [ ] La segunda rase es la correcta
 
 Buena suerte! :shamrock:
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
