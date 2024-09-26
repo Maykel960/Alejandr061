@@ -45,14 +45,14 @@
 
 - [ ] Esta frase es la correcta
 - [x] Esta frase es la incorrecta
-- [ ] La segunda rase es la correcta
+- [ ] La segunda frase es la correcta
 
 Buena suerte! :shamrock:
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "ejemplo": "de",
+  "formato": "de",
+  "codigo": 25
 }
 ```
