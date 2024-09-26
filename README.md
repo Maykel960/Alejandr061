@@ -23,7 +23,7 @@
 
 ---
 
-| Syntax | Description |
+| Dia de la semana | Asistencia |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
