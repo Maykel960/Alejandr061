@@ -42,3 +42,7 @@
 3. Item 2
 4. Item 3
 5. Item 4
+
+- [ ] Esta frase es la correcta
+- [x] Esta frase es la incorrecta
+- [ ] La segunda rase es la correcta
