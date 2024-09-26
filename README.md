@@ -11,11 +11,11 @@
 
 **_Texto en negrita cursiva_**
 
+> hola
+
 [Github](www.github.com)
 
 ![Github](https://www.lisdatasolutions.com/wp-content/uploads/2022/04/Que-es-y-para-que-sirve-GitHub.jpg)
-
-![El gato de Github](gato): https://geekytheory.com/content/images/2014/05/Cat-Illustrations-005.jpg
 
 * Item 1
     * Item 1.1
