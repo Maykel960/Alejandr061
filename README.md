@@ -25,8 +25,8 @@
 
 | Dia de la semana | Asistencia |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Lunes | 3 |
+| Martes | 2 |
 
 
 * Item 1
