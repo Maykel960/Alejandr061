@@ -9,6 +9,12 @@
 
 *Texto en cursiva*
 
+**_Texto en negrita cursiva_**
+
+[Github] (www.github.com)
+
+![Github](https://www.lisdatasolutions.com/wp-content/uploads/2022/04/Que-es-y-para-que-sirve-GitHub.jpg)
+
 * Item 1
     * Item 1.1
 * Item 2
