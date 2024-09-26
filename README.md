@@ -21,6 +21,14 @@
 
 ![Github](https://www.lisdatasolutions.com/wp-content/uploads/2022/04/Que-es-y-para-que-sirve-GitHub.jpg)
 
+---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 * Item 1
     * Item 1.1
 * Item 2
