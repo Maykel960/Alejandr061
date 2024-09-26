@@ -48,5 +48,3 @@
 - [ ] La segunda rase es la correcta
 
 Buena suerte! :shamrock:
-
-I need to highlight these ==very important words==.
